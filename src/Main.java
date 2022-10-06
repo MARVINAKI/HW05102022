@@ -78,5 +78,12 @@ public class Main {
         System.out.println(i);
         System.out.println();
 
+
+        //Exercise 9
+        int numberFromTheTable=2;
+        for (int c=1;c<=10;c++) {
+            System.out.println(numberFromTheTable+"*"+c+"="+c*numberFromTheTable);
+        }
+        System.out.println();
     }
 }
